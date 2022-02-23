@@ -1,6 +1,6 @@
 ### Hi! I'm Mango 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=UrMango.UrMango)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=UrMango)
 
 - 👀 I’m 
 - 🌱 I’m currently learning ...
