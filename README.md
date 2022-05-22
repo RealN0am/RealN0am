@@ -3,17 +3,20 @@
 ### Hi! I'm Mango 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=UrMango)
 <details>
- <summary>About me</summary>
+ <summary>✨ About me</summary>
  <br/>
-I’m the creator of Sable World, which you can register to at: https://sable.co.il.
+I'm a game developer & programmer, video editor and graphic designer, and the creator of:
+</br>
+</br>
+
+[Sable World](https://sable.co.il) - a free, fun, and safe adventure world for kids and teenagers.
 
 Programming for me is the freedom to make dreams a reality technologically.
-
 I love learning and experiencing new languages and technological tools.
 </details>
 
 <details>
-<summary>Languages and Tools</summary>
+<summary>🛠️ Languages and Tools</summary>
  <br/>
 Some of the technological tools and languages i'm experiencing with are:
 
