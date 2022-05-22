@@ -8,4 +8,4 @@
 - 📫 How to reach me ...
 <br/>
 
-![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=UrMango)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrMango&layout=compact)]
