@@ -2,26 +2,34 @@
 [![twitter](https://img.shields.io/twitter/follow/_NoamRaz_?logo=twitter&style=for-the-badge)](https://twitter.com/_NoamRaz_) 
 ### Hi! I'm Mango 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=UrMango)
-
+<details>
+ <summary>About me</summary>
+ <br/>
 I’m the creator of Sable World, which you can register to at: https://sable.co.il.
 
 Programming for me is the freedom to make dreams a reality technologically.
 
 I love learning and experiencing new languages and technological tools.
+</details>
 
-Some of them are:
+<details>
+<summary>Languages and Tools</summary>
+ <br/>
+Some of the technological tools and languages i'm experiencing with are:
 
 **Languages:**
  - Assembly, C, C++, C#, JS, Python, SQL, Java and Lua.
 
 **Tools:**
  - Unity, Node.js, HTML & CSS, HTML5, Git, MongoDB and WireShark.
-
+</details>
 <br/>
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+📕 &nbsp;**My Latest Blog Posts**
+- [Passover Event in Sable!](https://sable.co.il/blog/post/6255d19a85b21c54e233b7a3)
+- [Sable's first post](https://sable.co.il/blog/post/61e7e228d3d99dd3b3a1982b)
+
+<br/>
 
 ![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=UrMango&layout=compact&theme=dark)
 
@@ -34,6 +42,7 @@ This is the section I'm featuring a project I'm proud of being involved in,
 and this month's project is.... 🥁🥁🥁🥁
 
  **ZLIB Compressor & Decompressor - by UrMango!**
+ 
  While learning about other virtual worlds made in flash, I discovered a data compression type called ZLIB.
  ZLIB is a compression that is mostly used for archives (and is very similar to zip and gzip), but is also used for compressing binary files separately.
 
