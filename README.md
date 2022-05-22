@@ -11,12 +11,24 @@ I love learning and experiencing new languages and technological tools.
 
 Some of them are:
 
+**Languages:**
  - Assembly
  - C, C++, C#
  - JS
  - Python
- - MongoDB
  - SQL
+ - Java
+ - Lua
+
+**Tools:**
+ - Unity
+ - Node.js
+ - HTML & CSS
+ - HTML 5
+ - Git
+ - MongoDB
+ - WireShark
+
 <br/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=UrMango&theme=onedark)
