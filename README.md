@@ -46,10 +46,10 @@ and this month's project is.... 🥁🥁🥁🥁
 
  **ZLIB Compressor & Decompressor - by UrMango!**
  
- While learning about other virtual worlds made in flash, I discovered a data compression type called ZLIB.
+ While learning about other virtual worlds made in flash, I discovered a data compression type called ZLIB they use to compress files.
  ZLIB is a compression that is mostly used for archives (and is very similar to zip and gzip), but is also used for compressing binary files separately.
 
-While working with these virtual world files, I discovered using ZLIB for binary files isn't an easy task to do even in flash, and I decided to make it easier to use with a simple C# project outputing the results to a file.
+While working with the files, I discovered using ZLIB for binary files isn't an easy task to do even in flash, and I decided to make it easier to use with a simple C# project outputing the results to a file.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UrMango&repo=zlib-comp-decomp&theme=dark)](https://github.com/UrMango/zlib-comp-decomp)
+[![ZLIB](https://github-readme-stats.vercel.app/api/pin/?username=UrMango&repo=zlib-comp-decomp&theme=dark)](https://github.com/UrMango/zlib-comp-decomp)
 
