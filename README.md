@@ -12,28 +12,22 @@ I love learning and experiencing new languages and technological tools.
 Some of them are:
 
 **Languages:**
- - Assembly
- - C, C++, C#
- - JS
- - Python
- - SQL
- - Java
- - Lua
+ - Assembly, C, C++, C#, JS, Python, SQL, Java and Lua.
 
 **Tools:**
- - Unity
- - Node.js
- - HTML & CSS
- - HTML 5
- - Git
- - MongoDB
- - WireShark
+ - Unity, Node.js, HTML & CSS, HTML5, Git, MongoDB and WireShark.
 
 <br/>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=UrMango&theme=onedark)
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=UrMango&layout=compact&theme=dark)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=UrMango&theme=onedark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UrMango&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=00FF02)
 
 ## The Featured Project of the month
 This is the section I'm featuring a project I'm proud of being involved in,
