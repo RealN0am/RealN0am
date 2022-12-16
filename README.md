@@ -41,15 +41,15 @@ Some of the technological tools and languages i'm experiencing with are:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UrMango&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=00FF02)
 
 ## The Featured Project of the month
-This is the section I'm featuring a project I'm proud of being involved in,
+This is the section I'm featuring a project I'm proud of making or being involved in,
 and this month's project is.... 🥁🥁🥁🥁
 
- **ZLIB Compressor & Decompressor - by UrMango!**
+ **Mango Guru NLP AI - by UrMango!**
  
- While learning about other virtual worlds made in flash, I discovered a data compression type called ZLIB they use to compress files.
- ZLIB is a compression that is mostly used for archives (and is very similar to zip and gzip), but is also used for compressing binary files separately.
+ In the past few months, I learned a lot about AI and am building a Sentiment Analysis Neural Network from scratch (No libraries - only math ones).
+ This week, I took a little break and tried to make an AI using libraries, to see how it goes. I learned `tensorflow` and made a simple chatbot with it, called the Mango Guru AI - because I used it in a [Cyber Challenges Website I built.](https://mangosecrets.com).
 
-While working with the files, I discovered using ZLIB for binary files isn't an easy task to do even in flash, and I decided to make it easier to use with a simple C# project outputing the results to a file.
+ This project didn't take much to make and was fairly easy, though I'm still proud of making it and gaining more experience with AI and industrial tools.
 
-[![ZLIB](https://github-readme-stats.vercel.app/api/pin/?username=UrMango&repo=zlib-comp-decomp&theme=dark)](https://github.com/UrMango/zlib-comp-decomp)
+[![GURU](https://github-readme-stats.vercel.app/api/pin/?username=UrMango&repo=mangoguru-ai&theme=dark)](https://github.com/UrMango/mangoguru-ai)
 
