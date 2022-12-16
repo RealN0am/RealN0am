@@ -47,7 +47,7 @@ and this month's project is.... 🥁🥁🥁🥁
  **Mango Guru NLP AI - by UrMango!**
  
  In the past few months, I learned a lot about AI and am building a Sentiment Analysis Neural Network from scratch (No libraries - only math ones).
- This week, I took a little break and tried to make an AI using libraries, to see how it goes. I learned `tensorflow` and made a simple chatbot with it, called the Mango Guru AI - because I used it in a [Cyber Challenges Website I built.](https://mangosecrets.com).
+ This week, I took a little break and tried to make an AI using libraries, to see how it goes. I learned `tensorflow` and made a simple chatbot with it, called the Mango Guru AI - because I used it in a [Cyber Challenges Website I built.](https://mangosecrets.com)
 
  This project didn't take much to make and was fairly easy, though I'm still proud of making it and gaining more experience with AI and industrial tools.
 
