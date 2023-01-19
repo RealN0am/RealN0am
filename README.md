@@ -34,7 +34,7 @@ Some of the technological tools and languages i'm experiencing with are:
 
 <br/>
 
-![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=UrMango&layout=compact&theme=dark)
+![TopLanguage](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UrMango&layout=compact&theme=dark)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=UrMango&theme=onedark)
 
